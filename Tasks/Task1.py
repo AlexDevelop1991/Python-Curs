@@ -10,6 +10,7 @@ my_list.reverse()
 # 5 Создай ещё один список с двумя элементами.
 other_list = [ 'bro', 55]
 # 6 Расширьте первый список элементами второго списка.
-final_list = my_list + other_list
+my_list.extend(other_list)      # Либо так можно  final_list = my_list + other_list
 # 7 Выведите в терминал расширенный список из 6 элементов.
-print(final_list)
+print(my_list)
+
