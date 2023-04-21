@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Tasks/Task_For in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Task_For in2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Task_TernaryOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Task_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_For in3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_For in4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_While.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681932763945</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="task">
+      <created>1682011298505</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682011298505</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
