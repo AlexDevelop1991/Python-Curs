@@ -9,6 +9,8 @@ print(new_list)
 
 print(my_list)
 
+
+# Вариант 2 обычный For in
 my_list = ['abc', 'da', 'none', 'brand', 'no']
 
 new_list = []
