@@ -38,7 +38,7 @@ class Car:
         self.price = price
         self.vol_engine = vol_engine
 
-    def reverse(self, new_brand):
+    def new_brand(self, new_brand):
         self.brand = new_brand
 
     def __str__(self):
@@ -49,6 +49,6 @@ my_car = Car('Bmw', '20_000', '2.4')
 
 print(my_car)
 
-my_car.reverse('Audi')
+my_car.new_brand('Audi')
 
 print(my_car)
