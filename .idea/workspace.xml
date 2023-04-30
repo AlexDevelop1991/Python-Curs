@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Python/Csv_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Task_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Modul_Math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Modul_Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Modul_Re_Регулярные_выражения.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Modul_Secrets_and_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Рекрусивные_функции.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682513390838</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="task">
+      <created>1682691302636</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682691302636</updated>
+    </task>
+    <task id="LOCAL-00016" summary="task">
+      <created>1682691380252</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682691380252</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
