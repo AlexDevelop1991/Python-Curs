@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Pygame/rect_game.py" afterDir="false" />
+    <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="pygame">
+      <change afterPath="$PROJECT_DIR$/Pygame/images/alien.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pygame/images/fighter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pygame/images/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pygame/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/Python Curs",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/Python Curs&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\Python Curs\Python" />
@@ -204,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682950156048</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="pygame">
+      <created>1687265971644</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1687265971644</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +243,7 @@
     <MESSAGE value="Python Curs" />
     <MESSAGE value="task3" />
     <MESSAGE value="task" />
-    <option name="LAST_COMMIT_MESSAGE" value="task" />
+    <MESSAGE value="pygame" />
+    <option name="LAST_COMMIT_MESSAGE" value="pygame" />
   </component>
 </project>
