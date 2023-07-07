@@ -5,38 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="pygame">
-      <change afterPath="$PROJECT_DIR$/Django/courses/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/api/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/api/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/api/authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/api/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/api/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/api/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/api/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/base/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/base/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/base/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/base/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/migrations/0002_alter_course_title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/shop/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/templates/shop/courses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/courses/templates/shop/single_course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_science/num_py_one_dimension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_science/num_py_two_dimensions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/images/rocket.png" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/images/ball.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/Python Curs",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/Python Curs&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\Python Curs\Python" />
@@ -250,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687438471137</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="pygame">
+      <created>1687619495916</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1687619495916</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
