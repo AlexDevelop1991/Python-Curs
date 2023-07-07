@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="pygame">
-      <change afterPath="$PROJECT_DIR$/Data_science/num_py_one_dimension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_science/num_py_two_dimensions.py" afterDir="false" />
+    <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="data_science">
+      <change afterPath="$PROJECT_DIR$/Data_science/Numpy/num_py_arange_and_reshape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_science/Numpy/num_py_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_science/Numpy/num_py_random.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_science/num_py_one_dimension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_science/Numpy/num_py_one_dimension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_science/num_py_two_dimensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_science/Numpy/num_py_two_dimensions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Python Curs\Data_science\Numpy" />
       <recent name="C:\Users\User\PycharmProjects\Python Curs\Python" />
     </key>
   </component>
@@ -228,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687619495916</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="data_science">
+      <created>1688733598536</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1688733598536</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +271,7 @@
     <MESSAGE value="task3" />
     <MESSAGE value="task" />
     <MESSAGE value="pygame" />
-    <option name="LAST_COMMIT_MESSAGE" value="pygame" />
+    <MESSAGE value="data_science" />
+    <option name="LAST_COMMIT_MESSAGE" value="data_science" />
   </component>
 </project>
