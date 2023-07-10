@@ -21,5 +21,47 @@ print('')
 # print(df)
 # print('')
 
-df['Active'] = [True, False, False, True, True]
+df['Active'] = np.array([True, False, False, True, True])  # Так же можно передавать в виде массива Numpy
 print(df)
+print('')
+print('')
+
+
+
+total_comments = {
+    'Total Comments': [70, 30, 45, 55, 80]
+}
+
+df2 = pd.DataFrame(total_comments)
+print(df2)
+print('')
+
+# By default concat work on the Axis=0!!!
+print(pd.concat([df, df2]))  # Выполняем конкатенацию то есть соединяем два Data Frame
+print('')
+
+df = pd.concat([df, df2], axis=1)
+print(df)
+print('')
+
+# Original df doesn't change!
+print(df.drop(['Language'], axis=1))  # Удаляем колонку из Data Frame по default axis=0!!!!
+print('')
+
+print(df)
+print('')
+
+# Original df is changed inplace
+df.drop(['Language'], axis=1, inplace=True)  # Удаляет колонку в оригинале Data Frame
+print(df)
+print('')
+
+df.drop([2, 3], inplace=True)  # Удаляем строки из оригинала Data Frame
+print(df)
+print('')
+
+
+
+
+
+
