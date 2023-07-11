@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="data_science">
-      <change afterPath="$PROJECT_DIR$/Data_science/Pandas/pan_das_random_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_science/Pandas/random_sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_science/Pandas/sales_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_science/Pandas/sales_data.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_science/Pandas/pan_das_merge_drop_and_extend.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_science/Pandas/pan_das_merge_drop_and_extend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_science/Pandas/pan_das_random_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_science/Pandas/pan_das_random_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_science/Pandas/random_sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_science/Pandas/random_sales.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/Python Curs&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -265,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688979215183</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="data_science">
+      <created>1688985916129</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1688985916129</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="UnknownFeatures">
