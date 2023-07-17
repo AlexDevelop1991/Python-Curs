@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="data_science">
-      <change afterPath="$PROJECT_DIR$/Data_science/Scikit/decision_tree_model.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_science/Scikit/scikit_prediction_and_evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_science/Scikit/vehicles.csv" afterDir="false" />
+    <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="sklearn">
+      <change afterPath="$PROJECT_DIR$/Machine_learning/Scikit/airline_passenger_satisfaction.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_learning/Scikit/airline_passenger_satisfaction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_science/Scikit/decision_tree_model.dot" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_learning/Scikit/decision_tree_model.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_science/Scikit/scikit_prediction_and_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_learning/Scikit/scikit_prediction_and_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_science/Scikit/vehicles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_learning/Scikit/vehicles.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Python Curs\Machine_learning\Scikit" />
+      <recent name="C:\Users\User\PycharmProjects\Python Curs\Machine_learning" />
       <recent name="C:\Users\User\PycharmProjects\Python Curs\Data_science\Numpy" />
       <recent name="C:\Users\User\PycharmProjects\Python Curs\Python" />
     </key>
@@ -286,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689338210662</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="sklearn">
+      <created>1689438010348</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1689438010348</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -322,6 +333,7 @@
     <MESSAGE value="task" />
     <MESSAGE value="pygame" />
     <MESSAGE value="data_science" />
-    <option name="LAST_COMMIT_MESSAGE" value="data_science" />
+    <MESSAGE value="sklearn" />
+    <option name="LAST_COMMIT_MESSAGE" value="sklearn" />
   </component>
 </project>
