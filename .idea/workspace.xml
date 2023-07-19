@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94585da1-d365-473d-a3af-90f3417c5777" name="Changes" comment="sklearn">
-      <change afterPath="$PROJECT_DIR$/Machine_learning/Scikit/airline_passenger_satisfaction.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine_learning/Scikit/airline_passenger_satisfaction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_science/Scikit/decision_tree_model.dot" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_learning/Scikit/decision_tree_model.dot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_science/Scikit/scikit_prediction_and_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_learning/Scikit/scikit_prediction_and_evaluation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_science/Scikit/vehicles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_learning/Scikit/vehicles.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_learning/Scikit/airline_passenger_satisfaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_learning/Scikit/airline_passenger_satisfaction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
